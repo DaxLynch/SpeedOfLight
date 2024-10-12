@@ -1,0 +1,15 @@
+PING cam.ac.uk (128.232.132.8) 56(84) bytes of data.
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=1 ttl=37 time=152 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=2 ttl=37 time=152 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=3 ttl=37 time=152 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=4 ttl=37 time=151 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=5 ttl=37 time=151 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=6 ttl=37 time=151 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=7 ttl=37 time=151 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=8 ttl=37 time=152 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=9 ttl=37 time=151 ms
+64 bytes from tm-128-232-132-8.tm.uis.cam.ac.uk (128.232.132.8): icmp_seq=10 ttl=37 time=152 ms
+
+--- cam.ac.uk ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 11333ms
+rtt min/avg/max/mdev = 151.457/151.516/151.612/0.041 ms

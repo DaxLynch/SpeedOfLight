@@ -1,0 +1,15 @@
+PING sydney.edu.au (20.248.131.216) 56(84) bytes of data.
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=1 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=2 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=3 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=4 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=5 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=6 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=7 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=8 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=9 ttl=108 time=169 ms
+64 bytes from 20.248.131.216 (20.248.131.216): icmp_seq=10 ttl=108 time=169 ms
+
+--- sydney.edu.au ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9436ms
+rtt min/avg/max/mdev = 169.235/169.283/169.339/0.028 ms
